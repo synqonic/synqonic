@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋+I'm+Arefin;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Synqonic;" />
 </h1>
 <div align="right">
 <a name="top"></a>
@@ -9,7 +9,7 @@
 </a>
 
 </div>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/l1ackoder/l1ackoder/main/k.gif" />
+<img width="100%" align="center" src="k.gif" />
 
 <!-- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I+hack+to+secure+🛠️;" /></h3> -->
 ---
@@ -20,12 +20,12 @@
 
 <div align="center">
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card
+<!-- ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card-->
 
 <p align="center">
-  <a href="https://github.com/arefinani/github-languages-card">
+  <a href="https://github.com/synqonic/github-languages-card">
     <img
-      src="https://github-languages-card.vercel.app/api/top-languages?username=arefinoni&theme=hacker"
+      src="https://github-languages-card.vercel.app/api/top-languages?username=synqonic&theme=hacker"
       width="760"
       alt="GitHub Languages Card"
     />
